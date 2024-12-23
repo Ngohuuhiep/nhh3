@@ -37,7 +37,7 @@ body {
 .footer {
     text-align: center;
     padding: 10px;
-    background-color: #333; /* Adjust footer background color */
+    background-color: #333; 
     color: white;
     position: relative;
     bottom: 0;
